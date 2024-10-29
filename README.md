@@ -25,5 +25,5 @@ git clone https://github.com/rubino1996/BoggleSolverPy.git
 - Starting Boggle Game!
 - Board NxN Loads
 - Completed in "x" seconds with "x" moves.
-- Words Found:.....
+- Words Found: .....
 - Total Words Found: x
