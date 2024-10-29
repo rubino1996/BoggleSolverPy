@@ -43,5 +43,5 @@ def run_boggle_game(board_file, dictionary_file):
 
 
 if __name__ == "__main__":
-    run_boggle_game(r"C:\Users\ruben\Documents\NAU\PhD\Fall2024\CS570\Homework\Boggle\Part_2\board_4x4_v5.txt",
-                    r"C:\Users\ruben\Documents\NAU\PhD\Fall2024\CS570\Homework\Boggle\Part_2\twl06.txt")
+    run_boggle_game("data/board.txt",
+                    "data/dictionary.txt")
