@@ -17,3 +17,13 @@ git clone https://github.com/rubino1996/BoggleSolverPy.git
 [here](board_4x4_v1.txt)
 
 2. **Dictionary File**: Prepare a text file with valid words, one per line (e.g., [here](dictionary.txt)).
+
+## Runing the Solver
+- python main.py
+
+## Example Output
+- Starting Boggle Game!
+- Board NxN Loads
+- Completed in "x" seconds with "x" moves.
+- Words Found:.....
+- Total Words Found: x
