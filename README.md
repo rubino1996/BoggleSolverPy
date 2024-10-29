@@ -10,4 +10,11 @@
 - Outputs discovered words, sorted by length and alphabetically
 
 ## Installation
-git clone 
+git clone https://github.com/rubino1996/BoggleSolverPy.git
+
+## Usage
+- **Board File**: Create a text file with your Boggle board layout (e.g., board.txt), using spaces to separate letters and each line as a row.
+A W G A
+D D S D
+P R X N
+B Q B X
