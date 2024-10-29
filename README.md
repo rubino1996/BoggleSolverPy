@@ -14,4 +14,4 @@ git clone https://github.com/rubino1996/BoggleSolverPy.git
 
 ## Usage
 - **Board File**: Create a text file with your Boggle board layout (e.g., board.txt), using spaces to separate letters and each line as a row.
-[here](board_4x4_v1)
+[here](board_4x4_v1.txt)
